@@ -1,0 +1,19 @@
+{
+  "name": "101568934_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "COMP3123 Exercise 05 - Express Routing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Pritesh Patel - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
